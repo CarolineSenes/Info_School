@@ -1,6 +1,6 @@
 # Prototype web pour l'école Info School
 
-Création d'un prototype de site web responsive, à partir des maquettes fournies.
+Création d'un prototype de site web responsive, à partir des maquettes fournies, pour prendre en main le framework **Bootstrap**
 
 
 ## Tech Stack
