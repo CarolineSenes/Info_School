@@ -8,14 +8,10 @@ Création d'un prototype de site web responsive, à partir des maquettes fournie
 **Client:** HTML, Sass, Bootstrap
   
 ## Screenshots
-Affichage laptop
-![Affichage laptop](https://github.com/CarolineSenes/Info_School/blob/master/images/responsive/laptop.jpg)
+**Affichages responsive**
 
-Affichage ipad
-![Affichage ipad](https://github.com/CarolineSenes/Info_School/blob/master/images/responsive/ipad.jpg)
+![Affichage laptop](https://github.com/CarolineSenes/Info_School/blob/master/images/responsive/responsive.jpg)
 
-Affichage iphone
-![Affichage iphone](https://github.com/CarolineSenes/Info_School/blob/master/images/responsive/iphone.jpg)
 ## Fonctionnalités
 
 - Responsive sur mobile, tablette, laptop, desktop
